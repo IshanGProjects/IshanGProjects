@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bevara](https://github.com/bevara-outdoors)
 
-- 🌱 I’m currently learning **Scala, Machine Learning, Embedded C, Objected**
+- 🌱 I’m currently learning **Scala, Machine Learning, Embedded C, Objected Oriented Programming in Java**
 
 - 🏆 Hackathon Wins [https://devpost.com/IshanGProjects?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav](https://devpost.com/IshanGProjects?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
