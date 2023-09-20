@@ -1,5 +1,20 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Bevara](https://github.com/bevara-outdoors)<br><br>- 🌱 I’m currently learning **Scala, Machine Learning, Embedded C, Objected**<br><br>- 🏆 Hackathon Wins [https://devpost.com/IshanGProjects?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav](https://devpost.com/IshanGProjects?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br><br>- 📝 Resume [https://docs.google.com/document/d/1-TQlXV3YYfbxwekLnvGqMuunpiDEuiMd/edit?usp=sharing&ouid=103089094108005629485&rtpof=true&sd=true](https://docs.google.com/document/d/1-TQlXV3YYfbxwekLnvGqMuunpiDEuiMd/edit?usp=sharing&ouid=103089094108005629485&rtpof=true&sd=true)<br><br>- 💬 Ask me about **C++, Data Science, Python, Web Development**<br><br>- 📫 How to reach me **ishan10.gohil@gmail.com**
+🔨I’m currently working on [Bevara](https://github.com/bevara-outdoors) and [Blueprint Boulder](https://blueprintboulder.org/)
+
+<div style="display: flex;">
+    <div>
+        <img src="https://github.com/IshanGProjects/IshanGProjects/assets/86436938/db7ef93e-62a2-4a99-9025-3c2885ea7f6d" alt="Bevara" width="200""/>
+    </div>
+    <div>
+        <img src="https://github.com/IshanGProjects/IshanGProjects/assets/86436938/57f94306-2e21-4156-8b27-c24abe797811" alt="Blueprint Boulder" width="400"/>
+    </div>
+</div>
+
+
+
+
+
+  <br><br>- 🌱 I’m currently learning **Scala, Machine Learning, Embedded C, Objected**<br><br>- 🏆 Hackathon Wins [https://devpost.com/IshanGProjects?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav](https://devpost.com/IshanGProjects?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br><br>- 📝 Resume [https://docs.google.com/document/d/1-TQlXV3YYfbxwekLnvGqMuunpiDEuiMd/edit?usp=sharing&ouid=103089094108005629485&rtpof=true&sd=true](https://docs.google.com/document/d/1-TQlXV3YYfbxwekLnvGqMuunpiDEuiMd/edit?usp=sharing&ouid=103089094108005629485&rtpof=true&sd=true)<br><br>- 💬 Ask me about **C++, Data Science, Python, Web Development**<br><br>- 📫 How to reach me **ishan10.gohil@gmail.com**
 
 
 ## 🌐 Socials:
