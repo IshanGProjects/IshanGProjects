@@ -29,7 +29,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanGProjects&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 ## Leet Code Stats:
-[![Ishan's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=IshanGProjectstheme=dark))](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=IshanGProjects&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IshanGProjects&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
