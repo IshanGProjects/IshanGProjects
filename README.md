@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🇲🇽🇮🇳 🇺🇸 About Me:
 🔨I’m currently working on [Bevara](https://github.com/bevara-outdoors) and [Blueprint Boulder](https://blueprintboulder.org/)
 
 <div style="display: flex;">
