@@ -1,5 +1,7 @@
 # 🇲🇽🇮🇳 🇺🇸 About Me:
-🔨Work History [Bevara](https://github.com/bevara-outdoors) and [Blueprint Boulder](https://blueprintboulder.org/)
+🔨Work History American Express,  [Bevara](https://github.com/bevara-outdoors) and [Blueprint Boulder](https://blueprintboulder.org/)
+
+  <img src="https://github.com/IshanGProjects/IshanGProjects/assets/86436938/0e13c810-1581-45a4-8dcf-249163868fe0" width="25%" height="25%">
 
 <div style="display: flex;">
     <div>
