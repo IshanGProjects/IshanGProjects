@@ -13,7 +13,7 @@
 </div>
 
   <br><br>🌱 I’m currently learning **Scala, Machine Learning, Embedded C**<br><br> 🏆 [Hackathon Wins](https://devpost.com/IshanGProjects?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav](https://devpost.com/IshanGProjects?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)) <br><br>
-  📝 [Resume](https://docs.google.com/document/d/1-TQlXV3YYfbxwekLnvGqMuunpiDEuiMd/edit?usp=sharing&ouid=103089094108005629485&rtpof=true&sd=true)
+  📝 [Resume](https://drive.google.com/file/d/1l6jKjNhkaNzYADp_kHH_V6SgToSMa6i7/view?usp=sharing)
   <br><br>
 💬 Ask me about **C++, Data Science, Python, Web Development**<br><br>
 📫 How to reach me **ishan10.gohil@gmail.com**
